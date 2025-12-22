@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <!--__________ Power Armor Trader Pawnkinds __________-->
+
+    <!-- Power Armor Specialist Base -->
+
+    <PawnKindDef Name="FCP_Power_Armor_Trader_Base" Abstract="True">
+        <race>Human</race>
+        <defaultFactionDef>OutlanderCivil</defaultFactionDef>
+        <trader>true</trader>
+        <maxGenerationAge>60</maxGenerationAge>
+        <chemicalAddictionChance>0.05</chemicalAddictionChance>
+        <invNutrition>2.55</invNutrition>
+        <invFoodDef>MealSurvivalPack</invFoodDef>
+        <itemQuality>Normal</itemQuality>
+        <backstoryCryptosleepCommonality>0.08</backstoryCryptosleepCommonality>
+        <combatEnhancingDrugsChance>0.05</combatEnhancingDrugsChance>
+        <combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
+        <biocodeWeaponChance>0.1</biocodeWeaponChance>
+        <initialWillRange>1~3</initialWillRange>
+        <initialResistanceRange>10~17</initialResistanceRange>
+    </PawnKindDef>
+
+    <!-- Power Armor Specialist -->
+
+    <PawnKindDef ParentName="FCP_Power_Armor_Trader_Base">
+        <defName>FCP_Pawnkind_Power_Armor_Trader</defName>
+        <label>Power Armor Specialist</label>
+        <labelPlural>power armor specialists</labelPlural>
+        <combatPower>50</combatPower>
+        <gearHealthRange>0.7~2.5</gearHealthRange>
+        <apparelRequired>
+            <li>FCP_Apparel_Power_Armor_Frame</li>
+            <li>FCP_Apparel_Power_Armor_T51Armor</li>
+            <li>FCP_Apparel_Power_Armor_T51_Helmet</li>
+        </apparelRequired>
+        <weaponTags>
+            <li>IndustrialGunAdvanced</li>
+        </weaponTags>
+        <weaponMoney>300~600</weaponMoney>
+        <techHediffsMoney>500~1200</techHediffsMoney>
+        <techHediffsChance>0.25</techHediffsChance>
+        <forcedTraits>
+            <li>
+                <def>FCP_Trait_Power_Armor_Trained</def>
+            </li>
+        </forcedTraits>
+    </PawnKindDef>
+
+</Defs>
