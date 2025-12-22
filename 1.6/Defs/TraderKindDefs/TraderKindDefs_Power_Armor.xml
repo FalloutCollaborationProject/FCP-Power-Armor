@@ -76,7 +76,6 @@
             </li>
 
         </stockGenerators>
-        <willTrade>true</willTrade>
         <buyFilters>
             <thingFilter>
                 <thingDefs>
