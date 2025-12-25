@@ -4,10 +4,14 @@
     <!--__________ Power Armor Helmets __________-->
 
 	<ThingDef ParentName="HatBase" Name="FCP_Apparel_Power_Armor_Helmet_Base" Abstract="true">
+		<generateCommonality>0.001</generateCommonality>
 		<apparel>
 			<canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
 			<canBeGeneratedToSatisfyVacuumResistance>false</canBeGeneratedToSatisfyVacuumResistance>
 			<canBeGeneratedToSatisfyToxicEnvironmentResistance>false</canBeGeneratedToSatisfyToxicEnvironmentResistance>
+			<tags>
+				<li>FCP_Power_Armor_Helmet</li>
+			</tags>
 		</apparel>
 	</ThingDef>
 	

@@ -76,6 +76,12 @@
 				</requiredApparels>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="FalloutCore.ApparelExtension">
+				<shouldHideBody>True</shouldHideBody>
+				<displayBodyType>Hulk</displayBodyType>
+			</li>
+		</modExtensions>
 	</ThingDef>
 
 	<!--_____ Frames _____-->
