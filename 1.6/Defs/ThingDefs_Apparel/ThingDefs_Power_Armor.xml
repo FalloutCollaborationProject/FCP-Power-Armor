@@ -135,13 +135,13 @@
 			</li>
 			<li Class="CompProperties_Refuelable">
 				<fuelCapacity>100</fuelCapacity>
-				<fuelConsumptionRate>20</fuelConsumptionRate>
+				<fuelConsumptionRate>0.595</fuelConsumptionRate>
 				<fuelLabel>Fusion Core</fuelLabel>
 				<fuelGizmoLabel>Fusion Core</fuelGizmoLabel>
 				<outOfFuelMessage>Needs Fusion Core</outOfFuelMessage>
 				<fuelFilter>
 					<thingDefs>
-						<li>Chemfuel</li>
+						<li>FCP_Item_Fusion_Core</li>
 					</thingDefs>
 				</fuelFilter>
 				<consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>

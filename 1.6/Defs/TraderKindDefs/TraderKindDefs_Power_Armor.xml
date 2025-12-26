@@ -66,6 +66,13 @@
                 <countRange>0~1</countRange>
             </li>
 
+            <!--__ Fusion Cores __-->
+
+            <li Class="StockGenerator_SingleDef">
+                <thingDef>FCP_Item_Fusion_Core</thingDef>
+                <countRange>2~6</countRange>
+            </li>
+
             <!--__ Currency __-->
 
             <!-- Caps -->
