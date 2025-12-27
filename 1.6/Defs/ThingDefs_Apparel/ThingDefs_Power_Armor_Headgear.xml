@@ -32,6 +32,7 @@
         <statBases>
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
+            <MarketValue>800</MarketValue>
             <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
             <ArmorRating_Blunt>1.00</ArmorRating_Blunt>
             <ArmorRating_Heat>0.80</ArmorRating_Heat>
@@ -86,6 +87,7 @@
         <statBases>
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
+            <MarketValue>900</MarketValue>
             <ArmorRating_Sharp>1.30</ArmorRating_Sharp>
             <ArmorRating_Blunt>1.30</ArmorRating_Blunt>
             <ArmorRating_Heat>1.00</ArmorRating_Heat>
@@ -139,6 +141,7 @@
         <statBases>
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
+            <MarketValue>1000</MarketValue>
             <ArmorRating_Sharp>1.60</ArmorRating_Sharp>
             <ArmorRating_Blunt>1.60</ArmorRating_Blunt>
             <ArmorRating_Heat>1.20</ArmorRating_Heat>
@@ -192,6 +195,7 @@
         <statBases>
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
+            <MarketValue>1100</MarketValue>
             <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
             <ArmorRating_Blunt>1.45</ArmorRating_Blunt>
             <ArmorRating_Heat>1.70</ArmorRating_Heat>

@@ -6,9 +6,8 @@
 	<!--_____ Base _____-->
 
 	<ThingDef ParentName="ApparelBase" Name="FCP_Apparel_Power_Armor_Frame_Base" Abstract="true">
-		<thingSetMakerTags>
-			<li>RewardStandardMidFreq</li>
-		</thingSetMakerTags>
+        <generateCommonality>0.001</generateCommonality>
+		<thingSetMakerTags Inherit="False" />
 		<smeltable>false</smeltable>
 		<possessionCount>1</possessionCount>
 		<thingCategories>
