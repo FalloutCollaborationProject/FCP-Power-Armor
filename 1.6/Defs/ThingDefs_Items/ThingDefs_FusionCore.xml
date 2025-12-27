@@ -31,7 +31,7 @@
             <li>ItemsMisc</li>
         </thingCategories>
         <drawGUIOverlay>true</drawGUIOverlay>
-        <tradeability>Sellable</tradeability>
+        <tradeability>All</tradeability>
         <techLevel>Spacer</techLevel>
         <tradeTags>
             <li>ExoticMisc</li>
