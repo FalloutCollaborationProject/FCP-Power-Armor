@@ -277,4 +277,349 @@
 		</apparel>
 	</ThingDef>
 
+	<!--_____ T-51 Paintjobs _____-->
+
+	<!-- T-51 Hotrodder Flame Job Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T51_Hotrod_Flames_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-51 Hotrodder Flame Job Power Armor</label>
+		<description>T-51 power armor emblazoned with dazzling flame decals that turn heads and strike fear into the hearts of enemies. This iconic hot rod design brings wasteland style to the battlefield.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_FlameJob</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T51Armor>1</FCP_Apparel_Power_Armor_T51Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T51_Hotrod_Flames/FCP_T51_Hotrod_Flames_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<MarketValue>3900</MarketValue>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.50</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.00</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.08</MoveSpeed>
+			<AimingDelayFactor>-0.03</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
+			<SocialImpact>0.10</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T51_Hotrod_Flames/FCP_T51_Hotrod_Flames_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-51 Hotrodder Shark Paint Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T51_Shark_Paint_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-51 Hotrodder Shark Paint Power Armor</label>
+		<description>T-51 power armor with menacing shark teeth painted in the style of pre-war fighter planes. This aggressive paint scheme shows your enemies you mean business.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_SharkPaint</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>			<WorkToMake>10200</WorkToMake>			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T51Armor>1</FCP_Apparel_Power_Armor_T51Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T51_Shark_Paint/FCP_T51_Shark_Paint_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<MarketValue>3900</MarketValue>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.50</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.00</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.08</MoveSpeed>
+			<AimingDelayFactor>-0.03</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
+			<SocialImpact>0.08</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T51_Shark_Paint/FCP_T51_Shark_Paint_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-51 Hotrodder Hotpink Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T51_Hotrod_Pink_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-51 Hotrodder Hotpink Power Armor</label>
+		<description>T-51 power armor in bold, vibrant hot pink that makes a statement. This eye-catching color scheme ensures you'll never be overlooked on the battlefield.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_Hotpink</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T51Armor>1</FCP_Apparel_Power_Armor_T51Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T51_Hotrod_Pink/FCP_T51_Hotrod_Pink_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>3900</MarketValue>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.50</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.00</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.08</MoveSpeed>
+			<AimingDelayFactor>-0.03</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
+			<SocialImpact>0.05</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T51_Hotrod_Pink/FCP_T51_Hotrod_Pink_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-51 Abraxo Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T51_Abraxo_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-51 Power Paints Abraxo Power Armor</label>
+		<description>T-51 power armor with a paint scheme inspired by the iconic Abraxo Cleaner branding. Clean, crisp, and unmistakable - this corporate paint job brings pre-war advertising aesthetics to the wasteland.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Power_Paints_Abraxo</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T51Armor>1</FCP_Apparel_Power_Armor_T51Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T51_Abraxo/FCP_T51_Abraxo_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>3900</MarketValue>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.50</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.00</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.08</MoveSpeed>
+			<AimingDelayFactor>-0.03</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
+			<SocialImpact>0.03</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T51_Abraxo/FCP_T51_Abraxo_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-51 Sugar Bombs Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T51_Sugar_Bombs_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-51 Power Paints Sugar Bombs Power Armor</label>
+		<description>T-51 power armor with colorful Sugar Bombs cereal branding. Sweet and explosive, this playful paint scheme combines nostalgia with intimidation.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Power_Paints_SugarBombs</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T51Armor>1</FCP_Apparel_Power_Armor_T51Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T51_Sugar_Bombs/FCP_T51_Sugar_Bombs_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>3900</MarketValue>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.50</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.00</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.08</MoveSpeed>
+			<AimingDelayFactor>-0.03</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
+			<SocialImpact>0.06</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T51_Sugar_Bombs/FCP_T51_Sugar_Bombs_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!--_____ T-60 Paintjobs _____-->
+
+	<!-- T-60 Hotrodder Flame Job Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T60_Hotrod_Flames_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-60 Hotrodder Flame Job Power Armor</label>
+		<description>T-60 power armor emblazoned with dazzling flame decals that turn heads and strike fear into the hearts of enemies. This iconic hot rod design brings wasteland style to the battlefield.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_FlameJob</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T60Armor>1</FCP_Apparel_Power_Armor_T60Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T60_Hotrod_Flames/FCP_T60_Hotrod_Flames_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>4100</MarketValue>
+			<ArmorRating_Sharp>2.00</ArmorRating_Sharp>
+			<ArmorRating_Blunt>2.00</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.30</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.10</MoveSpeed>
+			<AimingDelayFactor>-0.04</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.9</ToxicEnvironmentResistance>
+			<SocialImpact>0.15</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T60_Hotrod_Flames/FCP_T60_Hotrod_Flames_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-60 Hotrodder Shark Paint Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T60_Shark_Paint_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-60 Hotrodder Shark Paint Power Armor</label>
+		<description>T-60 power armor with menacing shark teeth painted in the style of pre-war fighter planes. This aggressive paint scheme shows your enemies you mean business.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_SharkPaint</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T60Armor>1</FCP_Apparel_Power_Armor_T60Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T60_Shark_Paint/FCP_T60_Shark_Paint_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>4100</MarketValue>
+			<ArmorRating_Sharp>2.00</ArmorRating_Sharp>
+			<ArmorRating_Blunt>2.00</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.30</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.10</MoveSpeed>
+			<AimingDelayFactor>-0.04</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.9</ToxicEnvironmentResistance>
+			<SocialImpact>0.12</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T60_Shark_Paint/FCP_T60_Shark_Paint_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<!-- T-60 Hotrodder Hotpink Power Armor -->
+
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base">
+		<defName>FCP_Apparel_T60_Hotrod_Pink_Power_Armor</defName>
+		<generateCommonality>0</generateCommonality>
+		<label>T-60 Hotrodder Hotpink Power Armor</label>
+		<description>T-60 power armor in bold, vibrant hot pink that makes a statement. This eye-catching color scheme ensures you'll never be overlooked on the battlefield.</description>
+		<recipeMaker>
+			<researchPrerequisite>FCP_Research_Hotrodder_Hotpink</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<recipeUsers>
+				<li>FCP_Production_Armor_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<costList>
+			<FCP_Apparel_Power_Armor_T60Armor>1</FCP_Apparel_Power_Armor_T60Armor>
+		</costList>
+		<graphicData>
+			<texPath>Things/Apparel/Power_Armors/T60_Hotrod_Pink/FCP_T60_Hotrod_Pink_Power_Armor_Hulk_south</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MarketValue>4100</MarketValue>
+			<ArmorRating_Sharp>2.00</ArmorRating_Sharp>
+			<ArmorRating_Blunt>2.00</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.30</ArmorRating_Heat>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.10</MoveSpeed>
+			<AimingDelayFactor>-0.04</AimingDelayFactor>
+			<ToxicEnvironmentResistance>0.9</ToxicEnvironmentResistance>
+			<SocialImpact>0.08</SocialImpact>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/Power_Armors/T60_Hotrod_Pink/FCP_T60_Hotrod_Pink_Power_Armor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

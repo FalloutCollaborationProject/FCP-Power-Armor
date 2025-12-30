@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Power Armor Paintjob Research __________-->
+    
+    <!-- Hotrodder Flame Job -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Hotrodder_FlameJob</defName>
+        <label>Hotrodder Flame Job</label>
+        <description>A dazzling flame paint scheme for power armor that turns heads and strikes fear into the hearts of enemies. This iconic hot rod design brings wasteland style to the battlefield.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Industrial</techLevel>
+        <techprintCount>1</techprintCount>
+        <techprintCommonality>1</techprintCommonality>
+        <tab>FCP_Pre_War_Research</tab>
+        <researchViewX>0</researchViewX>
+        <researchViewY>0</researchViewY>
+        <modExtensions>
+            <li Class="FCP.Core.TechprintExtension">
+                <baseLabel>FCP_Techprint_Label</baseLabel>
+                <baseDescription>FCP_Techprint_Desc</baseDescription>
+                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Flame</texPath>
+                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+            </li>
+        </modExtensions>
+    </ResearchProjectDef>
+
+    <!-- Hotrodder Shark Paint -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Hotrodder_SharkPaint</defName>
+        <label>Hotrodder Shark Paint</label>
+        <description>Menacing shark teeth painted on power armor in the style of pre-war fighter planes. Show your enemies you mean business with this aggressive paint scheme.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Industrial</techLevel>
+        <techprintCount>1</techprintCount>
+        <techprintCommonality>1</techprintCommonality>
+        <tab>FCP_Pre_War_Research</tab>
+        <researchViewX>1</researchViewX>
+        <researchViewY>0</researchViewY>
+        <modExtensions>
+            <li Class="FCP.Core.TechprintExtension">
+                <baseLabel>FCP_Techprint_Label</baseLabel>
+                <baseDescription>FCP_Techprint_Desc</baseDescription>
+                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Shark</texPath>
+                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+            </li>
+        </modExtensions>
+    </ResearchProjectDef>
+
+    <!-- Hotrodder Hotpink -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Hotrodder_Hotpink</defName>
+        <label>Hotrodder Hotpink</label>
+        <description>Bold, vibrant hot pink paint for power armor. This eye-catching color scheme makes a statement and ensures you'll never be overlooked on the battlefield.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Industrial</techLevel>
+        <techprintCount>1</techprintCount>
+        <techprintCommonality>1</techprintCommonality>
+        <tab>FCP_Pre_War_Research</tab>
+        <researchViewX>2</researchViewX>
+        <researchViewY>0</researchViewY>
+        <modExtensions>
+            <li Class="FCP.Core.TechprintExtension">
+                <baseLabel>FCP_Techprint_Label</baseLabel>
+                <baseDescription>FCP_Techprint_Desc</baseDescription>
+                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Hotpink</texPath>
+                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+            </li>
+        </modExtensions>
+    </ResearchProjectDef>
+
+    <!-- Power Paints Abraxo -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Power_Paints_Abraxo</defName>
+        <label>Power Paints Abraxo</label>
+        <description>A paint scheme inspired by the iconic Abraxo Cleaner branding. Clean, crisp, and unmistakable - this corporate paint job brings pre-war advertising aesthetics to your power armor.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Industrial</techLevel>
+        <techprintCount>1</techprintCount>
+        <techprintCommonality>1</techprintCommonality>
+        <tab>FCP_Pre_War_Research</tab>
+        <researchViewX>3</researchViewX>
+        <researchViewY>0</researchViewY>
+        <modExtensions>
+            <li Class="FCP.Core.TechprintExtension">
+                <baseLabel>FCP_Techprint_Label</baseLabel>
+                <baseDescription>FCP_Techprint_Desc</baseDescription>
+                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_PowerPaints_Abraxo</texPath>
+                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+            </li>
+        </modExtensions>
+    </ResearchProjectDef>
+
+    <!-- Power Paints Sugar Bombs -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Power_Paints_SugarBombs</defName>
+        <label>Power Paints Sugar Bombs</label>
+        <description>Colorful Sugar Bombs cereal branding applied to power armor. Sweet and explosive, this playful paint scheme combines nostalgia with intimidation.</description>
+        <baseCost>500</baseCost>
+        <techLevel>Industrial</techLevel>
+        <techprintCount>1</techprintCount>
+        <techprintCommonality>1</techprintCommonality>
+        <tab>FCP_Pre_War_Research</tab>
+        <researchViewX>4</researchViewX>
+        <researchViewY>0</researchViewY>
+        <modExtensions>
+            <li Class="FCP.Core.TechprintExtension">
+                <baseLabel>FCP_Techprint_Label</baseLabel>
+                <baseDescription>FCP_Techprint_Desc</baseDescription>
+                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_PowerPaints_SugarBombs</texPath>
+                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+            </li>
+        </modExtensions>
+    </ResearchProjectDef>
+
+</Defs>
