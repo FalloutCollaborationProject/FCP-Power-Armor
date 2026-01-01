@@ -330,7 +330,8 @@
 		<description>T-51 power armor with menacing shark teeth painted in the style of pre-war fighter planes. This aggressive paint scheme shows your enemies you mean business.</description>
 		<recipeMaker>
 			<researchPrerequisite>FCP_Research_Hotrodder_SharkPaint</researchPrerequisite>
-			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>			<WorkToMake>10200</WorkToMake>			<skillRequirements>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<skillRequirements>
 				<Crafting>8</Crafting>
 			</skillRequirements>
 			<recipeUsers>
