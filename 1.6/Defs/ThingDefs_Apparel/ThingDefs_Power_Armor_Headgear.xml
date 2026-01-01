@@ -33,9 +33,9 @@
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
             <MarketValue>800</MarketValue>
-            <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
-            <ArmorRating_Blunt>1.00</ArmorRating_Blunt>
-            <ArmorRating_Heat>0.80</ArmorRating_Heat>
+            <ArmorRating_Sharp>2.00</ArmorRating_Sharp>
+            <ArmorRating_Blunt>1.80</ArmorRating_Blunt>
+            <ArmorRating_Heat>1.40</ArmorRating_Heat>
             <Insulation_Heat>2</Insulation_Heat>
             <EquipDelay>3</EquipDelay>
         </statBases>
@@ -88,9 +88,9 @@
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
             <MarketValue>900</MarketValue>
-            <ArmorRating_Sharp>1.30</ArmorRating_Sharp>
-            <ArmorRating_Blunt>1.30</ArmorRating_Blunt>
-            <ArmorRating_Heat>1.00</ArmorRating_Heat>
+            <ArmorRating_Sharp>2.80</ArmorRating_Sharp>
+            <ArmorRating_Blunt>2.60</ArmorRating_Blunt>
+            <ArmorRating_Heat>2.20</ArmorRating_Heat>
             <Insulation_Heat>2</Insulation_Heat>
             <EquipDelay>2.5</EquipDelay>
         </statBases>
@@ -142,9 +142,9 @@
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
             <MarketValue>1000</MarketValue>
-            <ArmorRating_Sharp>1.60</ArmorRating_Sharp>
-            <ArmorRating_Blunt>1.60</ArmorRating_Blunt>
-            <ArmorRating_Heat>1.20</ArmorRating_Heat>
+            <ArmorRating_Sharp>3.00</ArmorRating_Sharp>
+            <ArmorRating_Blunt>2.80</ArmorRating_Blunt>
+            <ArmorRating_Heat>2.20</ArmorRating_Heat>
             <Insulation_Heat>2</Insulation_Heat>
             <EquipDelay>2</EquipDelay>
         </statBases>
@@ -196,9 +196,9 @@
             <MaxHitPoints>80</MaxHitPoints>
             <Mass>0.8</Mass>
             <MarketValue>1100</MarketValue>
-            <ArmorRating_Sharp>1.45</ArmorRating_Sharp>
-            <ArmorRating_Blunt>1.45</ArmorRating_Blunt>
-            <ArmorRating_Heat>1.70</ArmorRating_Heat>
+            <ArmorRating_Sharp>3.50</ArmorRating_Sharp>
+            <ArmorRating_Blunt>3.30</ArmorRating_Blunt>
+            <ArmorRating_Heat>2.80</ArmorRating_Heat>
             <Insulation_Heat>2</Insulation_Heat>
             <EquipDelay>2</EquipDelay>
         </statBases>
