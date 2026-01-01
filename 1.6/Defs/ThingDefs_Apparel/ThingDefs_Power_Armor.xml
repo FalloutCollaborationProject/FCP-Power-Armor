@@ -126,7 +126,15 @@
 		<comps>
 			<li Class="RangerRick_PowerArmor.CompProperties_PowerArmor">
 				<workDisables>
-					<li>Construction</li>
+					<li>Growing</li>
+					<li>Smithing</li>
+					<li>Cooking</li>
+					<li>Art</li>
+					<li>Tailoring</li>
+					<li>Crafting</li>
+					<li>Intellectual</li>
+					<li>Caring</li>
+					<li>Animals</li>
 				</workDisables>
 				<canSleep>False</canSleep>
 				<ignoresLegs>True</ignoresLegs>
