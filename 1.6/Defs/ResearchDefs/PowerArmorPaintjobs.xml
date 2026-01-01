@@ -23,7 +23,7 @@
             <li Class="FCP.Core.TechprintExtension">
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
-                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Flame</texPath>
+                <texPath>Things/Items/Magazines/FCP_Hotrodder_Flames_Magazine</texPath>
                 <requiredBench>FCP_Production_Tool_Bench</requiredBench>
             </li>
         </modExtensions>
@@ -49,7 +49,7 @@
             <li Class="FCP.Core.TechprintExtension">
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
-                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Shark</texPath>
+                <texPath>Things/Items/Magazines/FCP_Hotrodder_Shark_Magazine</texPath>
                 <requiredBench>FCP_Production_Tool_Bench</requiredBench>
             </li>
         </modExtensions>
@@ -75,7 +75,7 @@
             <li Class="FCP.Core.TechprintExtension">
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
-                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_Hotrodder_Hotpink</texPath>
+                <texPath>Things/Items/Magazines/FCP_Hotrodder_Pink_Magazine</texPath>
                 <requiredBench>FCP_Production_Tool_Bench</requiredBench>
             </li>
         </modExtensions>
@@ -101,7 +101,7 @@
             <li Class="FCP.Core.TechprintExtension">
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
-                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_PowerPaints_Abraxo</texPath>
+                <texPath>Things/Items/Magazines/FCP_Hotrodder_Abraxo_Magazine</texPath>
                 <requiredBench>FCP_Production_Tool_Bench</requiredBench>
             </li>
         </modExtensions>
@@ -127,7 +127,7 @@
             <li Class="FCP.Core.TechprintExtension">
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
-                <texPath>Things/Items/Techprints/Paintjobs/FCP_Techprint_PowerPaints_SugarBombs</texPath>
+                <texPath>Things/Items/Magazines/FCP_Hotrodder_Sugar_Bombs_Magazine</texPath>
                 <requiredBench>FCP_Production_Tool_Bench</requiredBench>
             </li>
         </modExtensions>

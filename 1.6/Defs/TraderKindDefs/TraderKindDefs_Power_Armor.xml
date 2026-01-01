@@ -76,27 +76,27 @@
             <!--__ Techprints __-->
 
             <li Class="StockGenerator_SingleDef">
-                <thingDef>FCP_Research_Hotrodder_FlameJob</thingDef>
+                <thingDef>Techprint_FCP_Research_Hotrodder_FlameJob</thingDef>
                 <countRange>0~1</countRange>
             </li>
 
             <li Class="StockGenerator_SingleDef">
-                <thingDef>FCP_Research_Hotrodder_SharkPaint</thingDef>
+                <thingDef>Techprint_FCP_Research_Hotrodder_SharkPaint</thingDef>
                 <countRange>0~1</countRange>
             </li>
 
             <li Class="StockGenerator_SingleDef">
-                <thingDef>FCP_Research_Hotrodder_Hotpink</thingDef>
+                <thingDef>Techprint_FCP_Research_Hotrodder_Hotpink</thingDef>
                 <countRange>0~1</countRange>
             </li>
 
             <li Class="StockGenerator_SingleDef">
-                <thingDef>FCP_Research_Power_Paints_Abraxo</thingDef>
+                <thingDef>Techprint_FCP_Research_Power_Paints_Abraxo</thingDef>
                 <countRange>0~1</countRange>
             </li>
 
             <li Class="StockGenerator_SingleDef">
-                <thingDef>FCP_Research_Power_Paints_SugarBombs</thingDef>
+                <thingDef>Techprint_FCP_Research_Power_Paints_SugarBombs</thingDef>
                 <countRange>0~1</countRange>
             </li>
 
