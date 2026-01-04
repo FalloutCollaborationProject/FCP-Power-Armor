@@ -6,6 +6,7 @@
 	<!--_____ Base _____-->
 
 	<ThingDef ParentName="ApparelBase" Name="FCP_Apparel_Power_Armor_Frame_Base" Abstract="true">
+		<techLevel>Spacer</techLevel>
         <generateCommonality>0.001</generateCommonality>
 		<thingSetMakerTags Inherit="False" />
 		<smeltable>false</smeltable>
