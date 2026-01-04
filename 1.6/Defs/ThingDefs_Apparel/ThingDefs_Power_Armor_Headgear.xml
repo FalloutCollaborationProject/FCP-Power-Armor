@@ -4,7 +4,7 @@
     <!--__________ Power Armor Helmets __________-->
 
 	<ThingDef ParentName="HatBase" Name="FCP_Apparel_Power_Armor_Helmet_Base" Abstract="true">
-		<techLevel>Spacer</techLevel>
+		<techLevel>Industrial</techLevel>
 		<generateCommonality>0.001</generateCommonality>
 		<apparel>
 			<canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>

@@ -8,7 +8,6 @@
     <TraderKindDef>
         <defName>FCP_Caravan_Power_Armor_Trader</defName>
         <label>Power Armor Specialist</label>
-        <category>Visitor</category>
         <stockGenerators>
 
             <!--__ Power Armor Frames __-->
@@ -195,12 +194,11 @@
                 <countRange>3000~8000</countRange>
             </li>
 
-        </stockGenerators>
-        <stockGenerators>
             <!-- Buying - Power Armor Items -->
             <li Class="StockGenerator_BuyTradeTag">
                 <tag>FCP_PowerArmor</tag>
             </li>
+
         </stockGenerators>
     </TraderKindDef>
 

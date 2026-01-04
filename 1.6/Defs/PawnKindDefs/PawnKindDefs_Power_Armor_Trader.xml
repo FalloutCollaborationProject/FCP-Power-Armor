@@ -7,7 +7,7 @@
 
     <PawnKindDef Name="FCP_Power_Armor_Trader_Base" Abstract="True">
         <race>Human</race>
-        <defaultFactionDef>OutlanderCivil</defaultFactionDef>
+        <defaultFactionDef>FCP_Faction_Wasteland_Settlers</defaultFactionDef>
         <trader>true</trader>
         <maxGenerationAge>60</maxGenerationAge>
         <chemicalAddictionChance>0.05</chemicalAddictionChance>
