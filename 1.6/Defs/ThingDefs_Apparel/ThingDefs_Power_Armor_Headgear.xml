@@ -16,10 +16,10 @@
 		</apparel>
 		<comps>
 			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
-				<repairResources>
-					<Steel>0.5</Steel>
-					<ComponentIndustrial>0.1</ComponentIndustrial>
-				</repairResources>
+				<repairResourcesPerHP>
+					<Steel>2.5</Steel>
+					<ComponentIndustrial>0.05</ComponentIndustrial>
+				</repairResourcesPerHP>
 				<repairTimeCostPerHP>60</repairTimeCostPerHP>
 			</li>
 		</comps>

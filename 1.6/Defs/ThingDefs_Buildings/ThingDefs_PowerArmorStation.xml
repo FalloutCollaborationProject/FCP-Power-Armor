@@ -18,6 +18,7 @@
 		<hasInteractionCell>true</hasInteractionCell>
 		<interactionCellOffset>(0,0,1)</interactionCellOffset>
 		<designationCategory>Production</designationCategory>
+		<hasTooltip>True</hasTooltip>
 		<costList>
 		  <Steel>100</Steel>
 		  <ComponentIndustrial>2</ComponentIndustrial>
