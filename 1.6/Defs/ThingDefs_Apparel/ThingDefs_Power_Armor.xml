@@ -59,6 +59,13 @@
 			<li Class="FCP.Core.CompProperties_LabelColored">
 				<rarity>Rare</rarity>
 			</li>
+			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+				<repairResources>
+					<Steel>0.5</Steel>
+					<ComponentIndustrial>0.1</ComponentIndustrial>
+				</repairResources>
+				<repairTimeCostPerHP>60</repairTimeCostPerHP>
+			</li>
 		</comps>
 		<modExtensions>
 			<li Class="FalloutCore.ApparelExtension">

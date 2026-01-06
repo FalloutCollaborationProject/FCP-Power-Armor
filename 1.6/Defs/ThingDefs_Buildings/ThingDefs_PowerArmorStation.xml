@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>FCP_Building_PowerArmorStation</defName>
+		<label>power armor station</label>
+		<description>A specialized station for storing and displaying power armor sets. Allows quick swapping of armor pieces between storage and use.</description>
+		<graphicData>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<texPath>Things/Buildings/FCP_Power_Armor_Station</texPath>
+			<drawSize>(3, 3)</drawSize>
+		</graphicData>
+		<drawerType>RealtimeOnly</drawerType>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.4</fillPercent>
+		<pathCost>50</pathCost>
+		<size>(3,3)</size>
+		<hasInteractionCell>true</hasInteractionCell>
+		<interactionCellOffset>(0,0,1)</interactionCellOffset>
+		<designationCategory>Production</designationCategory>
+		<costList>
+		  <Steel>100</Steel>
+		  <ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<MaxHitPoints>150</MaxHitPoints>
+			<WorkToBuild>2000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>2</Beauty>
+		</statBases>
+		<inspectorTabs>
+			<li>RangerRick_PowerArmor.ITab_ContentsPowerArmorStation</li>
+		</inspectorTabs>
+		<comps>
+			<li Class="RangerRick_PowerArmor.CompProperties_PowerArmorStation">
+				<armorDrawOffset>(0, 0, 1)</armorDrawOffset>
+				<allowedLayers>
+					<li>FCP_Apparel_Layer_Power_Armor_Frame</li>
+					<li>Overhead</li>
+					<li>Shell</li>
+					<li>PackJump</li>
+				</allowedLayers>
+			</li>
+		</comps>
+	</ThingDef>
+
+</Defs>

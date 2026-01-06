@@ -14,6 +14,15 @@
 				<li>FCP_Power_Armor_Helmet</li>
 			</tags>
 		</apparel>
+		<comps>
+			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+				<repairResources>
+					<Steel>0.5</Steel>
+					<ComponentIndustrial>0.1</ComponentIndustrial>
+				</repairResources>
+				<repairTimeCostPerHP>60</repairTimeCostPerHP>
+			</li>
+		</comps>
 	</ThingDef>
 	
     <!--_____ T-45 _____-->
