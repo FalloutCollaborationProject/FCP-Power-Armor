@@ -20,6 +20,16 @@
         <biocodeWeaponChance>0.1</biocodeWeaponChance>
         <initialWillRange>1~3</initialWillRange>
         <initialResistanceRange>10~17</initialResistanceRange>
+        <backstoryFiltersOverride>
+            <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Wastelander_Child</li>
+                </categoriesChildhood>
+                <categoriesAdulthood>
+                    <li>FCP_Backstory_Wastelanders</li>
+                </categoriesAdulthood>
+            </li>
+        </backstoryFiltersOverride>
     </PawnKindDef>
 
     <!-- Power Armor Specialist -->
