@@ -5,6 +5,7 @@
 		<defName>FCP_Building_PowerArmorStation</defName>
 		<label>power armor station</label>
 		<description>A specialized station for storing and displaying power armor sets. Allows quick swapping of armor pieces between storage and use.</description>
+		<thingClass>Building_WorkTable</thingClass>
 		<graphicData>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<texPath>Things/Buildings/FCP_Power_Armor_Station</texPath>
@@ -28,10 +29,33 @@
 			<WorkToBuild>2000</WorkToBuild>
 			<Flammability>1.0</Flammability>
 			<Beauty>2</Beauty>
+			<WorkTableWorkSpeedFactor>1.0</WorkTableWorkSpeedFactor>
 		</statBases>
 		<inspectorTabs>
+			<li>ITab_Bills</li>
 			<li>RangerRick_PowerArmor.ITab_ContentsPowerArmorStation</li>
 		</inspectorTabs>
+		<surfaceType>Item</surfaceType>
+		<recipes>
+			<!-- Power Armor Paintjobs -->
+			<li>Make_FCP_Apparel_T51_Hotrod_Flames_Power_Armor</li>
+			<li>Make_FCP_Apparel_T51_Shark_Paint_Power_Armor</li>
+			<li>Make_FCP_Apparel_T51_Hotrod_Pink_Power_Armor</li>
+			<li>Make_FCP_Apparel_T51_Abraxo_Power_Armor</li>
+			<li>Make_FCP_Apparel_T51_Sugar_Bombs_Power_Armor</li>
+			<li>Make_FCP_Apparel_T60_Hotrod_Flames_Power_Armor</li>
+			<li>Make_FCP_Apparel_T60_Shark_Paint_Power_Armor</li>
+			<li>Make_FCP_Apparel_T60_Hotrod_Pink_Power_Armor</li>
+			<!-- Helmet Paintjobs -->
+			<li>Make_FCP_Apparel_T51_Hotrod_Flames_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T51_Shark_Paint_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T51_Hotrod_Pink_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T51_Abraxo_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T51_Sugar_Bombs_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T60_Hotrod_Flames_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T60_Shark_Paint_Power_Armor_Helmet</li>
+			<li>Make_FCP_Apparel_T60_Hotrod_Pink_Power_Armor_Helmet</li>
+		</recipes>
 		<comps>
 			<li Class="RangerRick_PowerArmor.CompProperties_PowerArmorStation">
 				<armorDrawOffset>(0, 0, 1)</armorDrawOffset>

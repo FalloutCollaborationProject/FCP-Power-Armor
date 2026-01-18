@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Add Power Armor Station as a recipe user for all power armor paintjob recipes -->
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Fallout Core - Power Armor</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				
+				<!-- Add station to all existing paintjob recipes -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/RecipeDef[recipeUsers/li[text()="FCP_Production_Armor_Workbench"]]/recipeUsers</xpath>
+					<value>
+						<li>FCP_Building_PowerArmorStation</li>
+					</value>
+				</li>
+				
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>
