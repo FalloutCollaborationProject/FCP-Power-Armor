@@ -68,7 +68,7 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="FalloutCore.ApparelExtension">
+			<li Class="FCP.ApparelExtensions.ApparelExtension">
 				<shouldHideBody>True</shouldHideBody>
 				<displayBodyType>Hulk</displayBodyType>
 			</li>
