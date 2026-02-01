@@ -15,7 +15,7 @@
 		<passability>PassThroughOnly</passability>
 		<fillPercent>0.4</fillPercent>
 		<pathCost>50</pathCost>
-		<size>(3,3)</size>
+		<size>(2,2)</size>
 		<hasInteractionCell>true</hasInteractionCell>
 		<interactionCellOffset>(0,0,1)</interactionCellOffset>
 		<designationCategory>Production</designationCategory>

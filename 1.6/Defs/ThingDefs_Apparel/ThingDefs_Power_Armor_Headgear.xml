@@ -322,7 +322,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T51_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T51_Hotrod_Flames_Power_Armor_Helmet</defName>
-		<label>T-51 Hotrodder Flame Job Helmet</label>
+		<label>Hotrodder Flame Job T-51 Power Armor Helmet</label>
 		<description>A T-51 power armor helmet emblazoned with dazzling flame decals. This iconic hot rod design turns heads on the battlefield.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T51_Hotrod_Flames_Helmet/FCP_T51_Hotrod_Flames_Power_Armor_Helmet_south</texPath>
@@ -341,7 +341,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T51_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T51_Shark_Paint_Power_Armor_Helmet</defName>
-		<label>T-51 Hotrodder Shark Paint Helmet</label>
+		<label>Hotrodder Shark Paint T-51 Power Armor Helmet</label>
 		<description>A T-51 power armor helmet with menacing shark teeth painted in the style of pre-war fighter planes.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T51_Shark_Paint_Helmet/FCP_T51_Shark_Paint_Power_Armor_Helmet_south</texPath>
@@ -361,7 +361,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T51_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T51_Hotrod_Pink_Power_Armor_Helmet</defName>
-		<label>T-51 Hotrodder Hotpink Helmet</label>
+		<label>Hotrodder Hotpink T-51 Power Armor Helmet</label>
 		<description>A T-51 power armor helmet in bold, vibrant hot pink. This eye-catching color scheme ensures you'll never be overlooked.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T51_Hotrod_Pink_Helmet/FCP_T51_Hotrod_Pink_Power_Armor_Helmet_south</texPath>
@@ -380,7 +380,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T51_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T51_Abraxo_Power_Armor_Helmet</defName>
-		<label>T-51 Power Paints Abraxo Helmet</label>
+		<label>Abraxo T-51 Power Armor Helmet</label>
 		<description>A T-51 power armor helmet with Abraxo Cleaner branding. Clean, crisp, and unmistakable corporate aesthetics.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T51_Abraxo_Helmet/FCP_T51_Abraxo_Power_Armor_Helmet_south</texPath>
@@ -400,7 +400,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T51_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T51_Sugar_Bombs_Power_Armor_Helmet</defName>
-		<label>T-51 Power Paints Sugar Bombs Helmet</label>
+		<label>Sugar Bombs T-51 Power Armor Helmet</label>
 		<description>A T-51 power armor helmet with colorful Sugar Bombs cereal branding. Sweet and explosive nostalgia.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T51_Sugar_Bombs_Helmet/FCP_T51_Sugar_Bombs_Power_Armor_Helmet_south</texPath>
@@ -475,7 +475,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T60_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T60_Hotrod_Flames_Power_Armor_Helmet</defName>
-		<label>T-60 Hotrodder Flame Job Helmet</label>
+		<label>Hotrodder Flame Job T-60 Power Armor Helmet</label>
 		<description>A T-60 power armor helmet emblazoned with dazzling flame decals. This iconic hot rod design turns heads on the battlefield.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T60_Hotrod_Flames_Helmet/FCP_T60_Hotrod_Flames_Power_Armor_Helmet_south</texPath>
@@ -495,7 +495,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T60_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T60_Shark_Paint_Power_Armor_Helmet</defName>
-		<label>T-60 Hotrodder Shark Paint Helmet</label>
+		<label>Hotrodder Shark Paint T-60 Power Armor Helmet</label>
 		<description>A T-60 power armor helmet with menacing shark teeth painted in the style of pre-war fighter planes.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T60_Shark_Paint_Helmet/FCP_T60_Shark_Paint_Power_Armor_Helmet_south</texPath>
@@ -515,7 +515,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_T60_Helmet_Paintjob_Base">
 		<defName>FCP_Apparel_T60_Hotrod_Pink_Power_Armor_Helmet</defName>
-		<label>T-60 Hotrodder Hotpink Helmet</label>
+		<label>Hotrodder Hotpink T-60 Power Armor Helmet</label>
 		<description>A T-60 power armor helmet in bold, vibrant hot pink. This eye-catching color scheme ensures you'll never be overlooked.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Power_Armor_Headgear/T60_Hotrod_Pink_Helmet/FCP_T60_Hotrod_Pink_Power_Armor_Helmet_south</texPath>
@@ -531,4 +531,3 @@
 	</ThingDef>
 
 </Defs>
-
