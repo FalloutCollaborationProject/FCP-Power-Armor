@@ -33,7 +33,7 @@
 		</statBases>
 		<inspectorTabs>
 			<li>ITab_Bills</li>
-			<li>RangerRick_PowerArmor.ITab_ContentsPowerArmorStation</li>
+			<li>FCP.Core.PowerArmor.ITab_ContentsPowerArmorStation</li>
 		</inspectorTabs>
 		<surfaceType>Item</surfaceType>
 		<recipes>
@@ -57,7 +57,7 @@
 			<li>Make_FCP_Apparel_T60_Hotrod_Pink_Power_Armor_Helmet</li>
 		</recipes>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_PowerArmorStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_PowerArmorStation">
 				<armorDrawOffset>(0, 0, 1)</armorDrawOffset>
 				<allowedLayers>
 					<li>FCP_Apparel_Layer_Power_Armor_Frame</li>

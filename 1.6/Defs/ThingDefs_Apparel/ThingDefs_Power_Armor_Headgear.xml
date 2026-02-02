@@ -15,7 +15,7 @@
 			</tags>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Steel>2.5</Steel>
 					<ComponentIndustrial>0.05</ComponentIndustrial>
@@ -72,7 +72,7 @@
             <li Class="FCP.Core.CompProperties_LabelColored">
                 <rarity>Rare</rarity>
             </li>
-            <li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+            <li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
                 <requiredApparels>
                     <li>FCP_Apparel_Power_Armor_Frame</li>
                 </requiredApparels>
@@ -126,12 +126,12 @@
             <li Class="FCP.Core.CompProperties_LabelColored">
                 <rarity>Rare</rarity>
             </li>
-            <li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+            <li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
                 <requiredApparels>
                     <li>FCP_Apparel_Power_Armor_Frame</li>
                 </requiredApparels>
             </li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1</Plasteel>
 					<ComponentIndustrial>0.05</ComponentIndustrial>
@@ -187,12 +187,12 @@
             <li Class="FCP.Core.CompProperties_LabelColored">
                 <rarity>Rare</rarity>
             </li>
-            <li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+            <li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
                 <requiredApparels>
                     <li>FCP_Apparel_Power_Armor_Frame</li>
                 </requiredApparels>
             </li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1.25</Plasteel>
 					<ComponentIndustrial>0.06</ComponentIndustrial>
@@ -247,12 +247,12 @@
             <li Class="FCP.Core.CompProperties_LabelColored">
                 <rarity>Rare</rarity>
             </li>
-            <li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+            <li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
                 <requiredApparels>
                     <li>FCP_Apparel_Power_Armor_Frame</li>
                 </requiredApparels>
             </li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1.5</Plasteel>
 					<ComponentIndustrial>0.08</ComponentIndustrial>
@@ -301,12 +301,12 @@
 			<li Class="FCP.Core.CompProperties_LabelColored">
 				<rarity>Rare</rarity>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+			<li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
 				<requiredApparels>
 					<li>FCP_Apparel_Power_Armor_Frame</li>
 				</requiredApparels>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1</Plasteel>
 					<ComponentIndustrial>0.05</ComponentIndustrial>
@@ -454,12 +454,12 @@
 			<li Class="FCP.Core.CompProperties_LabelColored">
 				<rarity>Rare</rarity>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+			<li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
 				<requiredApparels>
 					<li>FCP_Apparel_Power_Armor_Frame</li>
 				</requiredApparels>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1</Plasteel>
 					<ComponentIndustrial>0.05</ComponentIndustrial>

@@ -59,7 +59,7 @@
 			<li Class="FCP.Core.CompProperties_LabelColored">
 				<rarity>Rare</rarity>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>2</Plasteel>
 					<ComponentIndustrial>0.1</ComponentIndustrial>
@@ -77,7 +77,7 @@
 
 	<ThingDef ParentName="FCP_Apparel_Power_Armor_Frame_Base" Name="FCP_Apparel_Power_Armor_Base" Abstract="true">
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+			<li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
 				<requiredApparels>
 					<li>FCP_Apparel_Power_Armor_Frame</li>
 				</requiredApparels>
@@ -132,7 +132,7 @@
 			</tags>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_PowerArmor">
+			<li Class="FCP.Core.PowerArmor.CompProperties_PowerArmor">
 				<workDisables>
 					<li>Growing</li>
 					<li>Smithing</li>
@@ -163,10 +163,10 @@
 				<initialFuelPercent>1</initialFuelPercent>
 				<showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_ApparelRequirement">
+			<li Class="FCP.Core.PowerArmor.CompProperties_ApparelRequirement">
 				<requiredTrait>FCP_Trait_Power_Armor_Trained</requiredTrait>
 			</li>
-			<li Class="RangerRick_PowerArmor.CompProperties_ApparelDependency"></li>
+			<li Class="FCP.Core.PowerArmor.CompProperties_ApparelDependency"></li>
 		</comps>
 	</ThingDef>
 
@@ -199,7 +199,7 @@
 			<wornGraphicPath>Things/Apparel/Power_Armors/T45/FCP_T45_Power_Armor</wornGraphicPath>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>1.5</Plasteel>
 					<ComponentIndustrial>0.08</ComponentIndustrial>
@@ -238,7 +238,7 @@
 			<wornGraphicPath>Things/Apparel/Power_Armors/T51/FCP_T51_Power_Armor</wornGraphicPath>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>2</Plasteel>
 					<ComponentIndustrial>0.1</ComponentIndustrial>
@@ -277,7 +277,7 @@
 			<wornGraphicPath>Things/Apparel/Power_Armors/T60/FCP_T60_Power_Armor</wornGraphicPath>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>2.5</Plasteel>
 					<ComponentIndustrial>0.12</ComponentIndustrial>
@@ -319,7 +319,7 @@
 			<wornGraphicPath>Things/Apparel/Power_Armors/X01/FCP_X01_Power_Armor</wornGraphicPath>
 		</apparel>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>3</Plasteel>
 					<ComponentIndustrial>0.15</ComponentIndustrial>
@@ -348,7 +348,7 @@
 			<ToxicEnvironmentResistance>0.8</ToxicEnvironmentResistance>
 		</equippedStatOffsets>
 		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>2</Plasteel>
 					<ComponentIndustrial>0.1</ComponentIndustrial>
@@ -488,7 +488,7 @@
 			<AimingDelayFactor>-0.04</AimingDelayFactor>
 			<ToxicEnvironmentResistance>0.9</ToxicEnvironmentResistance>
 		</equippedStatOffsets>		<comps>
-			<li Class="RangerRick_PowerArmor.CompProperties_RepairableAtStation">
+			<li Class="FCP.Core.PowerArmor.CompProperties_RepairableAtStation">
 				<repairResourcesPerHP>
 					<Plasteel>2</Plasteel>
 					<ComponentIndustrial>0.1</ComponentIndustrial>
