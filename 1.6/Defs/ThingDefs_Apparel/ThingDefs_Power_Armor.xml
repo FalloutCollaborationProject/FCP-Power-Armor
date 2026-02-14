@@ -333,7 +333,7 @@
 
 	<!--___ T-51 Paintjob Base ___-->
 
-	<ThingDef ParentName="ApparelUpgradeableBase" Name="FCP_Apparel_T51_Paintjob_Base" Abstract="True">
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base" Name="FCP_Apparel_T51_Paintjob_Base" Abstract="True">
 		<generateCommonality>0</generateCommonality>
 		<statBases>
 			<WorkToMake>2500</WorkToMake>
@@ -474,7 +474,7 @@
 
 	<!--___ T-60 Paintjob Base ___-->
 
-	<ThingDef ParentName="ApparelUpgradeableBase" Name="FCP_Apparel_T60_Paintjob_Base" Abstract="True">
+	<ThingDef ParentName="FCP_Apparel_Power_Armor_Base" Name="FCP_Apparel_T60_Paintjob_Base" Abstract="True">
 		<generateCommonality>0</generateCommonality>
 		<statBases>
 			<WorkToMake>2500</WorkToMake>
