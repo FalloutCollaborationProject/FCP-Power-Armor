@@ -266,7 +266,7 @@
 
 	<!--___ T-51 Helmet Paintjob Base ___-->
 
-	<ThingDef ParentName="ApparelUpgradeableBase" Name="FCP_Apparel_T51_Helmet_Paintjob_Base" Abstract="True">
+	<ThingDef ParentName="FCP_ApparelUpgradeableBase" Name="FCP_Apparel_T51_Helmet_Paintjob_Base" Abstract="True">
 		<generateCommonality>0</generateCommonality>
 		<techLevel>Industrial</techLevel>
 		<smeltable>false</smeltable>
@@ -420,7 +420,7 @@
 
 	<!--___ T-60 Helmet Paintjob Base ___-->
 
-	<ThingDef ParentName="ApparelUpgradeableBase" Name="FCP_Apparel_T60_Helmet_Paintjob_Base" Abstract="True">
+	<ThingDef ParentName="FCP_ApparelUpgradeableBase" Name="FCP_Apparel_T60_Helmet_Paintjob_Base" Abstract="True">
 		<generateCommonality>0</generateCommonality>
 		<techLevel>Industrial</techLevel>
 		<smeltable>false</smeltable>
