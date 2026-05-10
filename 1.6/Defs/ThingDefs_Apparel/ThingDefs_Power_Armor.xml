@@ -68,7 +68,7 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="FCP.ApparelExtensions.ApparelExtension">
+			<li Class="FCP.Core.ApparelExtension">
 				<shouldHideBody>True</shouldHideBody>
 				<displayBodyType>Hulk</displayBodyType>
 			</li>
@@ -84,7 +84,7 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="FCP.ApparelExtensions.ApparelExtension">
+			<li Class="FCP.Core.ApparelExtension">
 				<shouldHideBody>True</shouldHideBody>
 				<displayBodyType>Hulk</displayBodyType>
 			</li>
