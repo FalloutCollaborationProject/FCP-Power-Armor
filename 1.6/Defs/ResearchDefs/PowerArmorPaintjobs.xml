@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
     <!--__________ Power Armor Paintjob Research __________-->
@@ -24,7 +24,10 @@
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
                 <texPath>Things/Items/Magazines/FCP_Hotrodder_Flames_Magazine</texPath>
-                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+                <requiredBenches>
+                    <li>FCP_Production_Old_Table_Terminal</li>
+                    <li>FCP_Production_Clean_Table_Terminal</li>
+                </requiredBenches>
             </li>
         </modExtensions>
     </ResearchProjectDef>
@@ -50,7 +53,10 @@
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
                 <texPath>Things/Items/Magazines/FCP_Hotrodder_Shark_Magazine</texPath>
-                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+                <requiredBenches>
+                    <li>FCP_Production_Old_Table_Terminal</li>
+                    <li>FCP_Production_Clean_Table_Terminal</li>
+                </requiredBenches>
             </li>
         </modExtensions>
     </ResearchProjectDef>
@@ -76,7 +82,10 @@
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
                 <texPath>Things/Items/Magazines/FCP_Hotrodder_Pink_Magazine</texPath>
-                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+                <requiredBenches>
+                    <li>FCP_Production_Old_Table_Terminal</li>
+                    <li>FCP_Production_Clean_Table_Terminal</li>
+                </requiredBenches>
             </li>
         </modExtensions>
     </ResearchProjectDef>
@@ -102,7 +111,10 @@
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
                 <texPath>Things/Items/Magazines/FCP_Hotrodder_Abraxo_Magazine</texPath>
-                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+                <requiredBenches>
+                    <li>FCP_Production_Old_Table_Terminal</li>
+                    <li>FCP_Production_Clean_Table_Terminal</li>
+                </requiredBenches>
             </li>
         </modExtensions>
     </ResearchProjectDef>
@@ -128,7 +140,10 @@
                 <baseLabel>FCP_Techprint_Label</baseLabel>
                 <baseDescription>FCP_Techprint_Desc</baseDescription>
                 <texPath>Things/Items/Magazines/FCP_Hotrodder_Sugar_Bombs_Magazine</texPath>
-                <requiredBench>FCP_Production_Tool_Bench</requiredBench>
+                <requiredBenches>
+                    <li>FCP_Production_Old_Table_Terminal</li>
+                    <li>FCP_Production_Clean_Table_Terminal</li>
+                </requiredBenches>
             </li>
         </modExtensions>
     </ResearchProjectDef>
