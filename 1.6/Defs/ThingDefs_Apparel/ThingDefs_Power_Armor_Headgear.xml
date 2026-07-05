@@ -6,6 +6,9 @@
 	<ThingDef ParentName="HatBase" Name="FCP_Apparel_Power_Armor_Helmet_Base" Abstract="true">
 		<techLevel>Industrial</techLevel>
 		<generateCommonality>0.001</generateCommonality>
+		<graphicData>
+			<drawSize>1.25</drawSize>
+		</graphicData>
 		<apparel>
 			<canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
 			<canBeGeneratedToSatisfyVacuumResistance>false</canBeGeneratedToSatisfyVacuumResistance>
@@ -270,6 +273,9 @@
 		<generateCommonality>0</generateCommonality>
 		<techLevel>Industrial</techLevel>
 		<smeltable>false</smeltable>
+		<graphicData>
+			<drawSize>1.25</drawSize>
+		</graphicData>
 		<statBases>
 			<WorkToMake>1200</WorkToMake>
 			<MaxHitPoints>80</MaxHitPoints>
@@ -424,6 +430,9 @@
 		<generateCommonality>0</generateCommonality>
 		<techLevel>Industrial</techLevel>
 		<smeltable>false</smeltable>
+		<graphicData>
+			<drawSize>1.25</drawSize>
+		</graphicData>
 		<statBases>
 			<WorkToMake>1200</WorkToMake>
 			<MaxHitPoints>80</MaxHitPoints>
