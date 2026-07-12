@@ -116,6 +116,9 @@
 			<Insulation_Heat>0</Insulation_Heat>
 			<EquipDelay>3.5</EquipDelay>
 		</statBases>
+		<equippedStatOffsets>
+			<CarryingCapacity>100</CarryingCapacity>
+		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups Inherit="False">
 				<li>Hands</li>
