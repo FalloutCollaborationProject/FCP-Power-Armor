@@ -36,6 +36,9 @@
 			<li>FCP.Core.PowerArmor.ITab_ContentsPowerArmorStation</li>
 		</inspectorTabs>
 		<surfaceType>Item</surfaceType>
+		<researchPrerequisites>
+			<li>FCP_Research_Power_Armor_Applications</li>
+		</researchPrerequisites>
 		<recipes>
 			<!-- Power Armor Paintjobs -->
 			<li>FCP_Paint_Apparel_T51_Hotrod_Flames_Power_Armor</li>
