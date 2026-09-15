@@ -4,7 +4,7 @@
 	<!-- Add Power Armor Station as a recipe user for all power armor paintjob recipes -->
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/RecipeDef[recipeUsers/li[text()="FCP_Production_Armor_Workbench"]]/recipeUsers</xpath>
+		<xpath>/Defs/RecipeDef[starts-with(defName, "FCP_Paint_Apparel_")]/recipeUsers</xpath>
 		<value>
 			<li>FCP_Building_PowerArmorStation</li>
 		</value>
