@@ -292,11 +292,11 @@
 			<AimingDelayFactor>-0.02</AimingDelayFactor>
 		</equippedStatOffsets>
 		<apparel>
-			<bodyPartGroups>
+			<bodyPartGroups Inherit="False">
 				<li>UpperHead</li>
 				<li>FullHead</li>
 			</bodyPartGroups>
-			<layers>
+			<layers Inherit="False">
 				<li>Overhead</li>
 			</layers>
 			<useDeflectMetalEffect>true</useDeflectMetalEffect>
@@ -448,11 +448,11 @@
 			<AimingDelayFactor>-0.03</AimingDelayFactor>
 		</equippedStatOffsets>
 		<apparel>
-			<bodyPartGroups>
+			<bodyPartGroups Inherit="False">
 				<li>UpperHead</li>
 				<li>FullHead</li>
 			</bodyPartGroups>
-			<layers>
+			<layers Inherit="False">
 				<li>Overhead</li>
 			</layers>
 			<useDeflectMetalEffect>true</useDeflectMetalEffect>
